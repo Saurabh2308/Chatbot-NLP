@@ -39,7 +39,7 @@ Integrates with the MySQL database for persistent storage of order details.
 
 Includes a basic HTML and CSS frontend with sections for displaying the menu, location, and contact information.
 Embeds the Dialogflow chatbot for user interaction.
-###NLP and Fulfillment:
+### NLP and Fulfillment:
 Enhance user experience through advanced Natural Language Processing techniques.
 Fine-tune the chatbot to understand user queries, preferences, and context for more accurate responses
 Uses Webhook fulfillment to handle complex user requests and communicate with the backend.
