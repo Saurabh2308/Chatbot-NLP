@@ -2,7 +2,7 @@
 
 ### Description:
 This comprehensive end-to-end project aims to create a robust and efficient food delivery chatbot system using cutting-edge technologies. The project covers the fundamentals of Dialogflow, integrates a Python-based FastAPI backend, and establishes seamless communication with a MySQL database for effective data management.
-Key Components:
+### Key Components:
 
 ### Dialogflow Integration:
 
